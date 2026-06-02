@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <clients>
+    <client>
+      <full_name>Григорьев Иван Александрович</full_name>
+      <account_number>407028107993158207</account_number>
+      <registration_address>г. Минск, ул. Толстого, д. 32, кв. 414</registration_address>
+      <phone_mobile>+375 (29) 716-19-50</phone_mobile>
+      <phone_landline>+375 (232) 605-48-18</phone_landline>
+    </client>
+    <client>
+      <full_name>Зайцев Александр Михайлович</full_name>
+      <account_number>407028109652447798</account_number>
+      <registration_address>г. Брест, ул. Толстого, д. 121, кв. 193</registration_address>
+      <phone_mobile>+375 (44) 324-39-17</phone_mobile>
+      <phone_landline>+375 (162) 896-53-82</phone_landline>
+    </client>
+    <client>
+      <full_name>Степанов Матвей Андреевич</full_name>
+      <account_number>407028104930996453</account_number>
+      <registration_address>г. Гомель, ул. Ленина, д. 102, кв. 285</registration_address>
+      <phone_mobile>+375 (29) 171-31-50</phone_mobile>
+      <phone_landline>+375 (17) 580-54-61</phone_landline>
+    </client>
+    <client>
+      <full_name>Семенов Тимур Романович</full_name>
+      <account_number>407028105188288332</account_number>
+      <registration_address>г. Ельск, ул. Чехова, д. 119, кв. 7</registration_address>
+      <phone_mobile>+375 (44) 753-74-18</phone_mobile>
+      <phone_landline>+375 (212) 424-44-76</phone_landline>
+    </client>
+    <client>
+      <full_name>Александров Роман Александрович</full_name>
+      <account_number>407028109594457175</account_number>
+      <registration_address>г. Калинковичи, ул. Гагарина, д. 113, кв. 29</registration_address>
+      <phone_mobile>+375 (25) 900-66-95</phone_mobile>
+      <phone_landline>+375 (17) 858-19-18</phone_landline>
+    </client>
+    <client>
+      <full_name>Сидоров Константин Романович</full_name>
+      <account_number>407028103753649708</account_number>
+      <registration_address>г. Гомель, ул. Кирова, д. 160, кв. 196</registration_address>
+      <phone_mobile>+375 (33) 683-30-57</phone_mobile>
+      <phone_landline>+375 (232) 394-48-45</phone_landline>
+    </client>
+    <client>
+      <full_name>Семенов Тимофей Юрьевич</full_name>
+      <account_number>407028103765013482</account_number>
+      <registration_address>г. Калинковичи, ул. Кирова, д. 78, кв. 190</registration_address>
+      <phone_mobile>+375 (44) 381-37-65</phone_mobile>
+      <phone_landline>+375 (162) 776-64-71</phone_landline>
+    </client>
+    <client>
+      <full_name>Новиков Олег Евгеньевич</full_name>
+      <account_number>407028102949124367</account_number>
+      <registration_address>г. Омск, ул. Лермонтова, д. 161, кв. 346</registration_address>
+      <phone_mobile>+375 (44) 108-21-63</phone_mobile>
+      <phone_landline>+375 (222) 710-78-59</phone_landline>
+    </client>
+    <client>
+      <full_name>Фролов Руслан Владимирович</full_name>
+      <account_number>407028104070247785</account_number>
+      <registration_address>г. Омск, ул. Беды, д. 71, кв. 234</registration_address>
+      <phone_mobile>+375 (33) 986-41-80</phone_mobile>
+      <phone_landline>+375 (212) 566-51-65</phone_landline>
+    </client>
+    <client>
+      <full_name>Лебедев Илья Дмитриевич</full_name>
+      <account_number>407028105288563108</account_number>
+      <registration_address>г. Ивацевичи, ул. Толстого, д. 148, кв. 330</registration_address>
+      <phone_mobile>+375 (25) 765-97-26</phone_mobile>
+      <phone_landline>+375 (17) 767-51-34</phone_landline>
+    </client>
+    <client>
+      <full_name>Павлов Руслан Николаевич</full_name>
+      <account_number>407028108319664297</account_number>
+      <registration_address>г. Быхов, ул. Пушкина, д. 30, кв. 152</registration_address>
+      <phone_mobile>+375 (29) 438-49-28</phone_mobile>
+      <phone_landline>+375 (162) 981-22-13</phone_landline>
+    </client>
+    <client>
+      <full_name>Егоров Евгений Александрович</full_name>
+      <account_number>407028107448640561</account_number>
+      <registration_address>г. Пинск, ул. Лермонтова, д. 53, кв. 135</registration_address>
+      <phone_mobile>+375 (29) 279-21-27</phone_mobile>
+      <phone_landline>+375 (152) 178-44-61</phone_landline>
+    </client>
+    <client>
+      <full_name>Борисов Руслан Дмитриевич</full_name>
+      <account_number>407028106073595689</account_number>
+      <registration_address>г. Ветка, ул. Чехова, д. 26, кв. 417</registration_address>
+      <phone_mobile>+375 (25) 285-73-13</phone_mobile>
+      <phone_landline>+375 (232) 126-80-73</phone_landline>
+    </client>
+    <client>
+      <full_name>Семенов Матвей Александрович</full_name>
+      <account_number>407028107904246242</account_number>
+      <registration_address>г. Ветка, ул. Беды, д. 115, кв. 217</registration_address>
+      <phone_mobile>+375 (44) 396-43-88</phone_mobile>
+      <phone_landline>+375 (17) 965-55-35</phone_landline>
+    </client>
+    <client>
+      <full_name>Андреев Владислав Владимирович</full_name>
+      <account_number>407028109475494007</account_number>
+      <registration_address>г. Минск, пр. Мира, д. 74, кв. 144</registration_address>
+      <phone_mobile>+375 (33) 997-86-35</phone_mobile>
+      <phone_landline>+375 (222) 421-26-19</phone_landline>
+    </client>
+    <client>
+      <full_name>Семенов Александр Олегович</full_name>
+      <account_number>407028101222290227</account_number>
+      <registration_address>г. Калинковичи, ул. Советская, д. 70, кв. 428</registration_address>
+      <phone_mobile>+375 (33) 686-36-13</phone_mobile>
+      <phone_landline>+375 (232) 666-74-34</phone_landline>
+    </client>
+    <client>
+      <full_name>Романов Иван Максимович</full_name>
+      <account_number>407028106930936323</account_number>
+      <registration_address>г. Брест, ул. Гагарина, д. 123, кв. 123</registration_address>
+      <phone_mobile>+375 (33) 306-27-59</phone_mobile>
+      <phone_landline>+375 (212) 744-77-88</phone_landline>
+    </client>
+    <client>
+      <full_name>Зайцев Павел Михайлович</full_name>
+      <account_number>407028104788859425</account_number>
+      <registration_address>г. Витебск, ул. Ленина, д. 169, кв. 194</registration_address>
+      <phone_mobile>+375 (44) 727-38-29</phone_mobile>
+      <phone_landline>+375 (232) 554-18-32</phone_landline>
+    </client>
+    <client>
+      <full_name>Фролов Марк Андреевич</full_name>
+      <account_number>407028102112528730</account_number>
+      <registration_address>г. Ивацевичи, ул. Экзотическая, д. 41, кв. 261</registration_address>
+      <phone_mobile>+375 (44) 323-15-22</phone_mobile>
+      <phone_landline>+375 (222) 251-77-71</phone_landline>
+    </client>
+    <client>
+      <full_name>Федоров Роман Юрьевич</full_name>
+      <account_number>407028101704514836</account_number>
+      <registration_address>г. Гомель, ул. Кирова, д. 16, кв. 258</registration_address>
+      <phone_mobile>+375 (29) 914-97-96</phone_mobile>
+      <phone_landline>+375 (212) 917-85-77</phone_landline>
+    </client>
+    <client>
+      <full_name>Лебедев Кирилл Сергеевич</full_name>
+      <account_number>407028106672570756</account_number>
+      <registration_address>г. Ивацевичи, ул. Гагарина, д. 164, кв. 67</registration_address>
+      <phone_mobile>+375 (44) 740-60-52</phone_mobile>
+      <phone_landline>+375 (162) 199-41-48</phone_landline>
+    </client>
+    <client>
+      <full_name>Орлов Тимофей Владимирович</full_name>
+      <account_number>407028105498352148</account_number>
+      <registration_address>г. Ельск, ул. Кирова, д. 163, кв. 262</registration_address>
+      <phone_mobile>+375 (29) 687-66-79</phone_mobile>
+      <phone_landline>+375 (212) 962-45-83</phone_landline>
+    </client>
+    <client>
+      <full_name>Степанов Евгений Михайлович</full_name>
+      <account_number>407028105561659081</account_number>
+      <registration_address>г. Пинск, ул. Лермонтова, д. 88, кв. 123</registration_address>
+      <phone_mobile>+375 (33) 714-74-22</phone_mobile>
+      <phone_landline>+375 (152) 596-64-66</phone_landline>
+    </client>
+    <client>
+      <full_name>Васильев Даниил Юрьевич</full_name>
+      <account_number>407028102648890017</account_number>
+      <registration_address>г. Калинковичи, ул. Кирова, д. 24, кв. 121</registration_address>
+      <phone_mobile>+375 (25) 463-76-87</phone_mobile>
+      <phone_landline>+375 (212) 930-78-51</phone_landline>
+    </client>
+    <client>
+      <full_name>Попов Тимофей Васильевич</full_name>
+      <account_number>407028101186083851</account_number>
+      <registration_address>г. Калинковичи, ул. Советская, д. 113, кв. 220</registration_address>
+      <phone_mobile>+375 (25) 908-52-93</phone_mobile>
+      <phone_landline>+375 (222) 819-67-91</phone_landline>
+    </client>
+    <client>
+      <full_name>Степанов Тимур Сергеевич</full_name>
+      <account_number>407028103794043011</account_number>
+      <registration_address>г. Витебск, бул. Юности, д. 22, кв. 54</registration_address>
+      <phone_mobile>+375 (33) 507-75-69</phone_mobile>
+      <phone_landline>+375 (162) 320-52-27</phone_landline>
+    </client>
+    <client>
+      <full_name>Лебедев Матвей Сергеевич</full_name>
+      <account_number>407028105467643219</account_number>
+      <registration_address>г. Гомель, ул. Экзотическая, д. 130, кв. 268</registration_address>
+      <phone_mobile>+375 (44) 657-25-62</phone_mobile>
+      <phone_landline>+375 (17) 933-46-20</phone_landline>
+    </client>
+    <client>
+      <full_name>Воробьев Тимофей Владимирович</full_name>
+      <account_number>407028104050328206</account_number>
+      <registration_address>г. Витебск, ул. Беды, д. 140, кв. 271</registration_address>
+      <phone_mobile>+375 (44) 132-53-73</phone_mobile>
+      <phone_landline>+375 (162) 932-42-37</phone_landline>
+    </client>
+    <client>
+      <full_name>Соловьев Александр Олегович</full_name>
+      <account_number>407028102016768716</account_number>
+      <registration_address>г. Брест, ул. Чехова, д. 15, кв. 257</registration_address>
+      <phone_mobile>+375 (29) 604-70-41</phone_mobile>
+      <phone_landline>+375 (152) 781-82-61</phone_landline>
+    </client>
+    <client>
+      <full_name>Новиков Игорь Андреевич</full_name>
+      <account_number>407028101637017135</account_number>
+      <registration_address>г. Пинск, ул. Толстого, д. 118, кв. 144</registration_address>
+      <phone_mobile>+375 (33) 922-69-55</phone_mobile>
+      <phone_landline>+375 (162) 546-61-57</phone_landline>
+    </client>
+    <client>
+      <full_name>Зайцев Тимур Алексеевич</full_name>
+      <account_number>407028103361055100</account_number>
+      <registration_address>г. Калинковичи, ул. Беды, д. 124, кв. 239</registration_address>
+      <phone_mobile>+375 (25) 397-22-15</phone_mobile>
+      <phone_landline>+375 (17) 906-32-20</phone_landline>
+    </client>
+    <client>
+      <full_name>Романов Ярослав Григорьевич</full_name>
+      <account_number>407028109335738064</account_number>
+      <registration_address>г. Витебск, ул. Ленина, д. 164, кв. 209</registration_address>
+      <phone_mobile>+375 (25) 411-22-33</phone_mobile>
+      <phone_landline>+375 (162) 963-87-28</phone_landline>
+    </client>
+    <client>
+      <full_name>Орлов Даниил Максимович</full_name>
+      <account_number>407028105614588769</account_number>
+      <registration_address>г. Ветка, ул. Кирова, д. 18, кв. 15</registration_address>
+      <phone_mobile>+375 (33) 765-86-69</phone_mobile>
+      <phone_landline>+375 (17) 900-79-42</phone_landline>
+    </client>
+    <client>
+      <full_name>Алексеев Тимур Александрович</full_name>
+      <account_number>407028108303653102</account_number>
+      <registration_address>г. Витебск, ул. Кирова, д. 158, кв. 198</registration_address>
+      <phone_mobile>+375 (25) 115-17-92</phone_mobile>
+      <phone_landline>+375 (17) 516-73-40</phone_landline>
+    </client>
+    <client>
+      <full_name>Волков Ярослав Федорович</full_name>
+      <account_number>407028108167491132</account_number>
+      <registration_address>г. Минск, пр. Мира, д. 123, кв. 444</registration_address>
+      <phone_mobile>+375 (44) 524-38-51</phone_mobile>
+      <phone_landline>+375 (212) 122-42-82</phone_landline>
+    </client>
+    <client>
+      <full_name>Кузьмин Алексей Петрович</full_name>
+      <account_number>407028102970867321</account_number>
+      <registration_address>г. Гомель, ул. Ленина, д. 155, кв. 129</registration_address>
+      <phone_mobile>+375 (44) 946-87-40</phone_mobile>
+      <phone_landline>+375 (152) 923-68-50</phone_landline>
+    </client>
+    <client>
+      <full_name>Кузьмин Константин Владимирович</full_name>
+      <account_number>407028108619563597</account_number>
+      <registration_address>г. Мозырь, ул. Пушкина, д. 173, кв. 389</registration_address>
+      <phone_mobile>+375 (29) 166-60-36</phone_mobile>
+      <phone_landline>+375 (232) 938-58-27</phone_landline>
+    </client>
+    <client>
+      <full_name>Волков Марк Александрович</full_name>
+      <account_number>407028101916840822</account_number>
+      <registration_address>г. Быхов, пр. Мира, д. 1, кв. 45</registration_address>
+      <phone_mobile>+375 (33) 666-72-23</phone_mobile>
+      <phone_landline>+375 (232) 143-44-28</phone_landline>
+    </client>
+    <client>
+      <full_name>Кузнецов Ярослав Николаевич</full_name>
+      <account_number>407028106750423323</account_number>
+      <registration_address>г. Ельск, ул. Гагарина, д. 125, кв. 44</registration_address>
+      <phone_mobile>+375 (25) 412-99-66</phone_mobile>
+      <phone_landline>+375 (232) 606-16-85</phone_landline>
+    </client>
+    <client>
+      <full_name>Романов Владимир Федорович</full_name>
+      <account_number>407028109948071665</account_number>
+      <registration_address>г. Пинск, ул. Ленина, д. 103, кв. 288</registration_address>
+      <phone_mobile>+375 (44) 931-10-12</phone_mobile>
+      <phone_landline>+375 (162) 509-86-55</phone_landline>
+    </client>
+    <client>
+      <full_name>Никитин Дмитрий Александрович</full_name>
+      <account_number>407028107481139542</account_number>
+      <registration_address>г. Минск, ул. Кирова, д. 51, кв. 151</registration_address>
+      <phone_mobile>+375 (44) 332-92-97</phone_mobile>
+      <phone_landline>+375 (152) 997-82-83</phone_landline>
+    </client>
+    <client>
+      <full_name>Орлов Денис Николаевич</full_name>
+      <account_number>407028106526762997</account_number>
+      <registration_address>г. Пинск, ул. Пушкина, д. 60, кв. 327</registration_address>
+      <phone_mobile>+375 (33) 412-58-48</phone_mobile>
+      <phone_landline>+375 (17) 334-71-55</phone_landline>
+    </client>
+    <client>
+      <full_name>Николаев Андрей Евгеньевич</full_name>
+      <account_number>407028109163942169</account_number>
+      <registration_address>г. Ивацевичи, бул. Юности, д. 109, кв. 271</registration_address>
+      <phone_mobile>+375 (33) 530-54-14</phone_mobile>
+      <phone_landline>+375 (232) 219-23-79</phone_landline>
+    </client>
+    <client>
+      <full_name>Фролов Сергей Иванович</full_name>
+      <account_number>407028102048663650</account_number>
+      <registration_address>г. Минск, ул. Экзотическая, д. 97, кв. 2</registration_address>
+      <phone_mobile>+375 (33) 108-60-61</phone_mobile>
+      <phone_landline>+375 (222) 984-76-66</phone_landline>
+    </client>
+    <client>
+      <full_name>Соловьев Игорь Андреевич</full_name>
+      <account_number>407028105260867653</account_number>
+      <registration_address>г. Быхов, ул. Пушкина, д. 55, кв. 264</registration_address>
+      <phone_mobile>+375 (33) 297-96-75</phone_mobile>
+      <phone_landline>+375 (162) 502-48-30</phone_landline>
+    </client>
+    <client>
+      <full_name>Яковлев Владислав Васильевич</full_name>
+      <account_number>407028104886896511</account_number>
+      <registration_address>г. Ельск, пр. Мира, д. 162, кв. 370</registration_address>
+      <phone_mobile>+375 (25) 817-21-83</phone_mobile>
+      <phone_landline>+375 (162) 108-78-12</phone_landline>
+    </client>
+    <client>
+      <full_name>Воробьев Роман Григорьевич</full_name>
+      <account_number>407028101312611203</account_number>
+      <registration_address>г. Ельск, ул. Толстого, д. 159, кв. 180</registration_address>
+      <phone_mobile>+375 (29) 245-24-31</phone_mobile>
+      <phone_landline>+375 (17) 266-45-80</phone_landline>
+    </client>
+    <client>
+      <full_name>Захаров Ярослав Александрович</full_name>
+      <account_number>407028105405695378</account_number>
+      <registration_address>г. Витебск, бул. Юности, д. 173, кв. 370</registration_address>
+      <phone_mobile>+375 (29) 685-30-63</phone_mobile>
+      <phone_landline>+375 (162) 549-26-95</phone_landline>
+    </client>
+    <client>
+      <full_name>Новиков Дмитрий Юрьевич</full_name>
+      <account_number>407028105357773485</account_number>
+      <registration_address>г. Мозырь, ул. Экзотическая, д. 130, кв. 26</registration_address>
+      <phone_mobile>+375 (25) 989-29-70</phone_mobile>
+      <phone_landline>+375 (212) 249-65-93</phone_landline>
+    </client>
+    <client>
+      <full_name>Петров Егор Романович</full_name>
+      <account_number>407028106772826459</account_number>
+      <registration_address>г. Брест, бул. Юности, д. 39, кв. 120</registration_address>
+      <phone_mobile>+375 (33) 466-12-49</phone_mobile>
+      <phone_landline>+375 (17) 579-87-12</phone_landline>
+    </client>
+    <client>
+      <full_name>Борисов Павел Алексеевич</full_name>
+      <account_number>407028109636882877</account_number>
+      <registration_address>г. Ельск, ул. Пушкина, д. 67, кв. 32</registration_address>
+      <phone_mobile>+375 (25) 537-29-57</phone_mobile>
+      <phone_landline>+375 (162) 898-61-22</phone_landline>
+    </client>
+    <client>
+      <full_name>Попов Александр Анатольевич</full_name>
+      <account_number>407028102536918866</account_number>
+      <registration_address>г. Калинковичи, ул. Толстого, д. 78, кв. 211</registration_address>
+      <phone_mobile>+375 (44) 715-80-66</phone_mobile>
+      <phone_landline>+375 (212) 256-62-58</phone_landline>
+    </client>
+    <client>
+      <full_name>Волков Тимофей Дмитриевич</full_name>
+      <account_number>407028103060267661</account_number>
+      <registration_address>г. Минск, ул. Толстого, д. 126, кв. 342</registration_address>
+      <phone_mobile>+375 (25) 569-70-29</phone_mobile>
+      <phone_landline>+375 (152) 231-29-63</phone_landline>
+    </client>
+    <client>
+      <full_name>Павлов Ярослав Юрьевич</full_name>
+      <account_number>407028102106814708</account_number>
+      <registration_address>г. Брест, ул. Ленина, д. 55, кв. 416</registration_address>
+      <phone_mobile>+375 (25) 674-17-37</phone_mobile>
+      <phone_landline>+375 (232) 168-37-92</phone_landline>
+    </client>
+  </clients>
